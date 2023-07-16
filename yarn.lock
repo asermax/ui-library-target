@@ -12,8 +12,10 @@
   resolved "https://registry.yarnpkg.com/@alloc/quick-lru/-/quick-lru-5.2.0.tgz#7bf68b20c0a350f936915fcae06f58e32007ce30"
   integrity sha512-UrcABB+4bUrFABwbluTIBErXwvbsU/V7TZWfmbgJfbkwiBuziS9gxdODUyuiecfdGQ85jglMW6juS3+z5TsKLw==
 
-"@asermax/button@file:.yalc/@asermax/button":
-  version "1.2.0"
+"@asermax/button@^1.2.1":
+  version "1.2.1"
+  resolved "https://npm.pkg.github.com/download/@asermax/button/1.2.1/28622aeb4eac9d6e8d2e1443eba37699a9c169db#28622aeb4eac9d6e8d2e1443eba37699a9c169db"
+  integrity sha512-tOLlHAtIMMzuw6CoUNodnq6yuOIlnPI7dIrGFMXLBENNHqSodSgWj/OCqAIJ1PDg7iYhv9WzoHSRsJtHHTm48Q==
 
 "@babel/code-frame@^7.0.0":
   version "7.22.5"
